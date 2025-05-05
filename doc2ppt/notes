@@ -1,0 +1,17 @@
+
+This implementation provides a complete solution for the Document-to-Presentation Converter assignment, featuring:
+
+1. A user-friendly Streamlit interface
+2. Support for multiple document formats (PDF, DOCX, TXT)
+3. Image extraction and handling
+4. Integration with Gemini AI for content processing
+5. PowerPoint generation with proper formatting
+6. Error handling and cleanup
+7. Clear project structure and documentation
+
+To run the project, users need to:
+1. Install the required dependencies
+2. Set up their Gemini API key
+3. Run the Streamlit application
+
+The code is modular and follows good practices for maintainability and extensibility.
